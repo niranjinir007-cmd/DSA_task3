@@ -1,5 +1,5 @@
-/* Student Record Search using AVL Tree
-   Compile: gcc avl_student.c -o avl
+mj/* Student Record Search using AVL Tree
+   Compile: gcc avl_student.c -o avl  
    Run    : ./avl                                              */
 #include <stdio.h>
 #include <stdlib.h>
